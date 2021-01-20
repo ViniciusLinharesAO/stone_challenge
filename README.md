@@ -18,6 +18,38 @@ $ iex -S mix run
 iex(1)> StoneChallenge.main
 ```
 
+You can change the inputs modifying "email_list.json" and "item_list.json" located at "./lists".
+
+### email_list sample:
+```json
+{
+  "emails": [
+    "email1@email.com",
+    "email2@email.com",
+    ...
+  ]
+}
+```
+
+### item_list sample:
+```json
+{
+  "items": [
+    {
+      "name": "item1",
+      "price": 9,
+      "amount": 1
+    },
+    {
+      "name": "item2",
+      "price": 9,
+      "amount": 2
+    },
+    ...
+  ]
+}
+```
+
 ### Deps
 - Poison -  https://hex.pm/packages/poison
 
