@@ -2,12 +2,12 @@
   "items": [
     {
       "name": "item1",
-      "price": 9,
+      "price": 202,
       "amount": 1
     },
     {
       "name": "item2",
-      "price": 9,
+      "price": 303,
       "amount": 2
     }
   ]

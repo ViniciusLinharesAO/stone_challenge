@@ -2,8 +2,8 @@
   "items": [
     {
       "name": "item1",
-      "price": 9,
-      "amount": 1
+      "price": 101,
+      "amount": 2
     }
   ]
 }
