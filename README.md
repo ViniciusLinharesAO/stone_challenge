@@ -14,10 +14,8 @@ $ cd stone_challenge
 $ mix deps.get
 ```
 ### Running
- Start the server and run the code
 ```sh
-$ iex -S mix run
-iex(1)> StoneChallenge.main
+$ mix main
 ```
 
 You can change the inputs modifying "email_list.json" and "item_list.json" located at "./lists".
