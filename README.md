@@ -3,11 +3,13 @@
 This project is my answer to the [stone challenge](https://gist.github.com/programa-elixir/1bd50a6d97909f2daa5809c7bb5b9a8a).
 
 Created with Erlang/OTP 23 and Elixir 1.11.2
+
 ### Installation
 
 Clone the rep and install the dependencies.
 
 ```sh
+$ git clone https://github.com/ViniciusLinharesAO/stone_challenge.git
 $ cd stone_challenge
 $ mix deps.get
 ```
