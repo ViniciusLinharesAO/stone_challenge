@@ -3,6 +3,6 @@ defmodule Mix.Tasks.Main do
 
   def run(_) do
     # Mix.Task.run("app.start")
-    StoneChallenge.main()
+    StoneChallenge.main() |> IO.inspect()
   end
 end
