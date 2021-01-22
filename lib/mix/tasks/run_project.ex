@@ -1,4 +1,4 @@
-defmodule Mix.Tasks.Main do
+defmodule Mix.Tasks.RunProject do
   use Mix.Task
 
   def run(_) do

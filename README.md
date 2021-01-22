@@ -15,7 +15,7 @@ $ mix deps.get
 ```
 ### Running
 ```sh
-$ mix main
+$ mix run_project
 ```
 
 You can change the inputs modifying "email_list.json" and "item_list.json" located at "./lists".
